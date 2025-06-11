@@ -1,3 +1,6 @@
 
 Complete new file
 Another file in RS 1 folder and now creating Merge
+
+
+This is file 2
