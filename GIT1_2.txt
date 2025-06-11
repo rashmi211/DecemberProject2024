@@ -5,3 +5,5 @@ Another file in RS 1 folder and now creating Merge
 This is file 2
 This is another file I am dropping
 
+
+Changes in file 2
